@@ -153,6 +153,11 @@ h1 {
     transition: 0.3s;
 }
 
+.sidebar-single:hover .nome-completo {
+    color: #00e92a;
+    transition: 0.3s;
+}
+
 .circle-photo a img {
     width: 40px;
     height: 40px;
